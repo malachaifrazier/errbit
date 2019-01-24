@@ -207,7 +207,7 @@ GEM
       rails (>= 3.2.0)
       railties (>= 3.2.0)
     moped (1.5.1)
-    multi_json (1.10.1)
+    multi_json (1.13.1)
     multi_xml (0.5.5)
     multipart-post (1.2.0)
     net-scp (1.1.2)
@@ -245,13 +245,11 @@ GEM
       activeresource (>= 2.3.0)
     pivotal-tracker (0.5.12)
       builder
-      builder
       crack
       happymapper (>= 0.3.2)
       nokogiri (>= 1.4.3)
       nokogiri (>= 1.5.5)
       nokogiri-happymapper (>= 0.5.4)
-      rest-client (~> 1.6.0)
       rest-client (~> 1.6.0)
     pjax_rails (0.3.4)
       jquery-rails
@@ -274,7 +272,7 @@ GEM
       rack (>= 1.1, < 2.0)
     quiet_assets (1.0.2)
       railties (>= 3.1, < 5.0)
-    rack (1.4.5)
+    rack (1.4.7)
     rack-cache (1.2)
       rack (>= 0.4)
     rack-contrib (1.1.0)
@@ -341,7 +339,7 @@ GEM
       simplecov-html (~> 0.7.1)
     simplecov-html (0.7.1)
     slop (3.4.6)
-    sprockets (2.2.2)
+    sprockets (2.2.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
       rack (~> 1.0)
